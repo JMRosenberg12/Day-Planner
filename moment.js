@@ -22,7 +22,7 @@ moment().add(1, 'days').calendar();       // Tomorrow at 8:16 AM
 moment().add(3, 'days').calendar();       // Thursday at 8:16 AM
 moment().add(10, 'days').calendar();      // 11/28/2019
 
-moment.locale();         // en
+moment().locale();         // en
 moment().format('LT');   // 8:22 AM
 moment().format('LTS');  // 8:22:39 AM
 moment().format('L');    // 11/18/2019
