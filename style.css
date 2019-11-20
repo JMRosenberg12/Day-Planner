@@ -75,6 +75,4 @@ textarea{
     transition: all .3s ease-in-out;
   }
 
-  nav {
-    background-color: #77dd77;
-  }
+table {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
