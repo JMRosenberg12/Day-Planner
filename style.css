@@ -75,4 +75,6 @@ textarea{
     transition: all .3s ease-in-out;
   }
 
-table {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
